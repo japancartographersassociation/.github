@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to JCACJ GitHub Lab 👋
 
-hogehoge
+日本地図学会の公式GitHubラボです。学会の公式ウェブサイトの他、さまざまな実験的なサービスも試みられています。 
 
 <!--
 
